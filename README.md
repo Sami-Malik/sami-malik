@@ -15,7 +15,7 @@
 
 <br />
 <br />
-Hi there, I'm <b>Sami Malik</b>, 18 year old Self Taught Full Stack Developer <b>Fiverr Seller</b> ( Ranked as Level 1 🌍 ) and a Computer Sciences Student 🚀  from <b>FAST NUCES</b>. I've been developing websites and experimenting with web technologies since I was 13 and honeslty I love messing up with code and coming up with better solutions than the previous one.
+Hi there, I'm <b>Sami Malik</b>, 18 year old Self Taught Full Stack Developer <b>Fiverr Seller</b> ( Ranked as Level 1 🌍 ) and a Computer Sciences Student 🚀  from <b>FAST NUCES</b>. I've been developing websites and experimenting with web technologies since I was 13 and honestly I love messing up with code and coming up with better solutions than the previous one.
 <br />
 Here is my portfolio website:
 
