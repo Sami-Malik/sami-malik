@@ -1,15 +1,15 @@
 ## Hey 👋, I'm Sami
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
+<a href="https://www.linkedin.com/in/sami-malik-4663651a8" >
   <img align="left" alt="Sami's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/imsamimalik">
   <img align="left" alt="Sami's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
+<a href="https://www.instagram.com/imsamimalik/">
   <img align="left" alt="Sami's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
+<a href="https://www.facebook.com/samimalikk">
   <img align="left" alt="Sami's FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
