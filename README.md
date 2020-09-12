@@ -75,3 +75,5 @@ Here is my portfolio website:
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
+
+![Sami's github stats](https://github-readme-stats.vercel.app/api?username=sami-malik&show_icons=true&hide_border=true)
