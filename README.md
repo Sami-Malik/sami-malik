@@ -77,3 +77,4 @@ Here is my portfolio website:
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
 ![Sami's github stats](https://github-readme-stats.vercel.app/api?username=sami-malik&show_icons=true&hide_border=true)
+<span align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-malik&layout=compact" alt="sami-malik" /></span>
